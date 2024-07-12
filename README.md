@@ -16,7 +16,7 @@ This project involves analyzing bike sales data to extract meaningful insights. 
 
 ## Project Overview
 
-The goal of this project is to analyze bike sales data to uncover trends and patterns. The project utilizes various data processing and visualization techniques to explore the dataset and present findings in a clear and concise manner.
+The goal of this project is to analyze bike sales data to uncover trends and patterns. The project utilizes various data processing and visualization techniques to explore the dataset and present findings clearly and concisely.
 
 ## Dataset
 
@@ -67,7 +67,12 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+I would like to express my gratitude to Alex The Analyst for his insightful YouTube channel. His tutorials and explanations have been invaluable in enhancing my understanding of data analysis techniques and tools. You can check out his channel [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst).
+
 
 ## Contact
 
